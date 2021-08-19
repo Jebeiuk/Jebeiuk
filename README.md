@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Simon @Jebeiuk
 - 👀 I’m interested in the past and the future....
-- 🌱 I’m always learning and new on the software development path 
-- 💞️ I’m currently creating an app to help local charities connect as well as to collaborate with people on any project where I can grow....
+- 🌱 I’m always learning and new on the software development path so would love to collaborate with people on any project where I can grow....
+- 💞️ I’m currently creating an app to help charities network and connect with the local community.
 - 📫 How to reach me sigaravan@hotmail.com
 
 <!---
